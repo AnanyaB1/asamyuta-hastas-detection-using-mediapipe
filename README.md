@@ -1,7 +1,7 @@
 # Asamyuta Hastas Recognition using MediaPipe
 ------------------------------------------
 
-This project aims to recognize the 28 unique hand signs, known as the Asamyuta Hastas, from the Indian classical dance form, Bharatanatyam. We recognise them using a machine learning model trained using a dense neural network, utilizing keypoints detected from hand gestures and their respective euclidian distances.
+This project aims to recognize the 28 unique hand signs, known as the Asamyuta Hastas, from the Indian classical dance form, Bharatanatyam. They are recognised using a machine learning model trained using a dense neural network, utilizing keypoints detected from hand gestures and their respective euclidian distances.
 
 ## CREDITS
 Much of the foundational code for this project was adapted from the [hand-gesture-recognition-mediapipe repository](https://github.com/kinivi/hand-gesture-recognition-mediapipe). However, significant modifications were made to cater to the specific needs of recognizing Asamyuta Hastas, including changes in data collection methodology and model architecture.
