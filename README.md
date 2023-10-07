@@ -52,7 +52,7 @@ The neural network was fine-tuned to better recognize the nuances of Asamyuta Ha
 
 ## RESULTS
 The trained model demonstrated promising performance. 
-<img src=https://github.com/AnanyaB1/asamyuta-hastas-detection-using-mediapipe/assets/63778650/debe893a-dbc0-42fa-99a1-1325072540aa width="60%"><br><br>
+<img src= https://github.com/AnanyaB1/asamyuta-hastas-detection-using-mediapipe/assets/63778650/76ac906b-f47a-43e6-bb60-3712b688c968 width="60%"><br><br>
 
 Overall accuracy: 98.0%
 
